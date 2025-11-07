@@ -8,8 +8,10 @@ const nextConfig: NextConfig = {
   pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
   
   experimental: {
-    turbo: {},
     mdxRs: true,
+    turbopack: {
+      root: __dirname,
+    },
   },
 
   images: {
