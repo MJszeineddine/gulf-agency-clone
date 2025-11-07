@@ -1,0 +1,23 @@
+{
+  "common": {
+    "services": "Services",
+    "work": "Our Work",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "requestQuote": "Request Quote",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "followUs": "Follow Us"
+  },
+  "hero": {
+    "headline": "Transforming Digital Ambitions into Tangible Success",
+    "subheadline": "A Full-Service Marketing Agency in the Heart of the Arabian Gulf",
+    "cta": "Explore Our Services"
+  },
+  "services": {
+    "headline": "Comprehensive Marketing Services",
+    "subheadline": "Innovative solutions designed for your brand's success"
+  }
+}
